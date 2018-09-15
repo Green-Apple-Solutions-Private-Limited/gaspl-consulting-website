@@ -1,0 +1,44 @@
+form#form26 input.text, input.search, .wufoo textarea.textarea {
+  border: 1px solid #eee;
+  background: none;
+  padding: 5px 2px;
+}
+input#saveForm {
+  background-color: #272727; 
+  border: none;
+  padding: 10px;
+  color: #fff;
+  font-size: 100%;
+  cursor:pointer;
+}
+.wufoo label.desc{
+	font-weight:normal;
+	font-size:13px !important;
+}
+
+.wufoo .info h2 {
+  display: none;
+}
+
+form li.error, #errorMsg b {
+  background-color: transparent !important;
+}
+form li.error .desc {
+  color: #272727 !important;
+}
+
+#errorMsg b{
+	  color: #DF0000 !important;}
+#errorLi {
+ border: 0px; 
+ margin:0px;
+}
+ .error label.desc {
+  font-weight: normal !important;
+}
+form p.error {
+font-weight:normal;
+}
+form.wufoo {
+    padding: 0 5px 20px 0;
+}
