@@ -1,0 +1,96 @@
+<footer class="footer">
+
+<div class="top_footer empty"></div><!-- end footer top section -->
+
+<div class="clearfix"></div>
+
+<div class="container">
+
+    <div class="one_fourth animate" data-anim-type="fadeIn" data-anim-delay="100">
+        <ul class="faddress">
+            <li><img src="../images/footer-logo.png" alt="" /></li>
+            <li><i class="fa fa-map-marker fa-lg"></i>&nbsp; A-11 Third Floor, Vikas Puri,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New Delhi 110018</li>
+            <li><i class="fa fa-phone"></i>&nbsp; 011-45538922</li>
+            <!--<li><i class="fa-mobile-phone"></i>&nbsp; +91-9958325030</li>-->
+            <li><a href="mailto:info@greenapplesolutions.com"><i class="fa fa-envelope"></i>&nbsp; info@greenapplesolutions.com</a></li>
+            <li><img src="../images/footer-wmap.png" alt="" /></li>
+        </ul>
+	</div><!-- end address -->
+    
+    <div class="one_fourth animate" data-anim-type="fadeIn" data-anim-delay="300">
+    <div class="qlinks">
+    
+    	<h4 class="lmb">Useful Links</h4>
+        
+        <ul>
+            <li><a href="../about-us.html"><i class="fa fa-angle-right"></i> About Us</a></li>
+            <li><a href="../engagement-models.html"><i class="fa fa-angle-right"></i> Engagement Models</a></li>
+            <li><a href="../current-openings.html"><i class="fa fa-angle-right"></i> Jobs @ Green Apple Solutions</a></li>
+            <li><a href="../case-studies.html"><i class="fa fa-angle-right"></i> Case Studies</a></li>
+            <li><a href="../contact-us.html"><i class="fa fa-angle-right"></i> Contact</a></li>
+            <li><a href="../site-map.html"><i class="fa fa-angle-right"></i> Site Map</a></li>
+           
+        </ul>
+        
+    </div>
+	</div><!-- end links -->
+        
+    <div class="one_half last animate" data-anim-type="fadeIn" data-anim-delay="500">
+    <div class="siteinfo">
+    
+    	<h4 class="lmb">About Us</h4>
+        
+        <p>Green Apple Solutions is a fast growing technology firm with a proven track record of providing application development services, technology consulting and IT outsourcing solutions. We offer a wide array of business solutions and technology services that empower 100+ businesses across the globe. From web design and development to custom applications, our team works intelligently to deliver seamless &amp; consistent services of the highest standard in the most cost-effective manner. </p>
+               
+	</div>
+    </div><!-- end site info -->
+    
+    <!-- end flickr -->
+
+</div><!-- end footer -->
+
+<div class="clearfix"></div>
+
+<div class="copyright_info">
+<div class="container">
+
+	<div class="clearfix divider_dashed10"></div>
+    
+    <div class="one_half animate" data-anim-type="fadeInRight">
+    
+        Copyright © 2015 Green Apple Solutions. All rights reserved. 
+        
+    </div>
+    
+    <div class="one_half last">
+        
+        <ul class="footer_social_links">
+            <li class="animate" data-anim-type="zoomIn"><a href="https://www.facebook.com/GreenAppleSolutions" target="_blank"><i class="fa fa-facebook"></i></a></li>
+            <li class="animate" data-anim-type="zoomIn"><a href="https://twitter.com/haraseb" target="_blank"><i class="fa fa-twitter"></i></a></li>
+            <li class="animate" data-anim-type="zoomIn"><a href="https://plus.google.com/+Greenapplesolutions/posts" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+            <li class="animate" data-anim-type="zoomIn"><a href="https://www.linkedin.com/company/1117093" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+            
+        </ul>
+            
+    </div>
+    
+</div>
+</div><!-- end copyright info -->
+
+<div class="clearfix"></div>
+
+</footer>
+<!-- google analytics code -->
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-16774060-19']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>

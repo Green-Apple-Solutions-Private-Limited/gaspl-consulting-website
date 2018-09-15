@@ -1,0 +1,231 @@
+<header class="header" style="background-color:#fff;">
+ 
+	<div class="container">
+    
+    <!-- Logo -->
+    <div class="logo"><a href="../index.html" id="logo"></a></div>
+		
+	<!-- Navigation Menu -->
+	<nav class="menu_main">
+        
+	<div class="navbar yamm navbar-default">
+    
+    <div class="container">
+      <div class="navbar-header">
+        <div class="navbar-toggle .navbar-collapse .pull-right " data-toggle="collapse" data-target="#navbar-collapse-1"  > <span>Menu</span>
+          <button type="button" > <i class="fa fa-bars"></i></button>
+        </div>
+      </div>
+      
+      <div id="navbar-collapse-1" class="navbar-collapse collapse pull-right">
+      
+        <ul class="nav navbar-nav">
+        
+        <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle menu-uppercase">Corporate</a>
+        <ul class="dropdown-menu multilevel" role="menu">
+                <li><a href="../about-us.html">Overview</a></li>
+                <li><a href="../our-team.html">Our Team</a></li>
+                <li><a href="../engagement-models.html">Engagement Models</a></li>
+                <li><a href="../our-work.html">Our Work</a></li>
+                <li><a href="../our-clients.html">Clients</a></li>
+            </ul>
+            
+        </li>
+               
+        <li class="dropdown yamm-fw"> <a href="#" data-toggle="dropdown" class="dropdown-toggle menu-uppercase">Services</a>
+            <ul class="dropdown-menu">
+              <li> 
+                <div class="yamm-content" style="background: url(https://dl.dropboxusercontent.com/u/18689296/GAS-new-website/images/tree-icon.png) right bottom no-repeat;">
+                  <div class="row">
+                                      
+                    <ul class="col-sm-8 col-md-6 list-unstyled two">
+                        <li>
+                        	<p>Web Development Services</p>
+                        </li>
+                        <li><a href="../e-business.html"><i class="fa fa-angle-right"></i> E-Business/B2B Solutions</a></li>
+                        <li><a href="../enterprise-portal-development.html"><i class="fa fa-angle-right"></i> Enterprise Portal Development</a></li>
+                        <li><a href="../web-application-development.html"><i class="fa fa-angle-right"></i> Web Application Development</a></li>
+                        
+                    </ul>
+                    
+                    <ul class="col-sm-8 col-md-6 list-unstyled two">
+                        <li>
+                           <p>Mobile Application Development</p>
+                        </li>
+                        <li><a href="../android-development.html" ><i class="fa fa-angle-right"></i> Android Development</a></li>
+                        <li><a href="../mobile-site-development.html"><i class="fa fa-angle-right"></i> Mobile Site Development</a></li>
+                        <li><a href="../product-catalogue.html"><i class="fa fa-angle-right"></i> Product Catalogue</a></li>
+                        
+                    </ul>
+                    
+                    
+                    
+                  </div>
+                  <div class="row" style="margin-top:10px;">
+                  <ul class="col-sm-8 col-md-6 list-unstyled two">
+                    <li>
+                       <p>Offshore Software Development</p>
+                    </li>
+                    <li><a href="../custom-software-development.html"><i class="fa fa-angle-right"></i> Custom Software Development</a></li>
+                    <li><a href="../product-development.html"><i class="fa fa-angle-right"></i> Product Development</a></li>
+                    <li><a href="../software-re-engineering.html"><i class="fa fa-angle-right"></i> Software Re-engineering</a></li>
+                    
+                    </ul>
+                    <ul class="col-sm-8 col-md-6 list-unstyled two">
+                        <li>
+                        	<p>Consulting &amp; IT Staff Augmentation</p>
+                        </li>
+                        <li><a href="../business-intelligence.html"><i class="fa fa-angle-right"></i> Business Intelligence/Data Visualisation</a></li>
+                        <li><a href="../cloud-solutions.html"><i class="fa fa-angle-right"></i> Cloud Solutions</a></li>
+                        <li><a href="../it-consulting-services.html"><i class="fa fa-angle-right"></i> IT Consulting Services</a></li>
+                    </ul>
+                    </div>
+                    
+                    <div class="row" style="margin-top:10px; margin-left:-3px;">
+                  <ul class="col-sm-6 col-md-4 list-unstyled two">
+                    <li>
+                       <p>Solutions</p>
+                    </li>
+                    <li><a href="../crm.html"><i class="fa fa-angle-right"></i>CRMs</a></li>
+                    
+                    
+                    </ul>
+                    <ul class="col-sm-6 col-md-4 list-unstyled two">
+                        <li>
+                        	<p>&nbsp;</p>
+                        </li>
+                        <li><a href="../e-commerce.html"><i class="fa fa-angle-right"></i>E-Commerce/Web Portals</a></li>
+                    </ul>
+                    <ul class="col-sm-6 col-md-4 list-unstyled two">
+                        <li>
+                        	<p>&nbsp;</p>
+                        </li>
+                        <li><a href="../e-learning-portal.html"><i class="fa fa-angle-right"></i>E-Learning Portals</a></li>
+                    </ul>
+                    </div>
+                    
+                    
+                    
+                  
+                  
+                </div>
+              </li>
+              <!--<div class="mega-menu-footer">
+							<img src="#" alt="">
+							<span>- Choose <strong>Your Style</strong></span>
+						</div>-->
+            </ul>
+            
+        </li>
+        
+        <li class="dropdown yamm-fw"> <a href="#" data-toggle="dropdown" class="dropdown-toggle menu-uppercase">Technologies</a>
+            <ul class="dropdown-menu">
+              <li> 
+                <div class="yamm-content" style="background: url(https://dl.dropboxusercontent.com/u/18689296/GAS-new-website/images/tree-icon.png) right bottom no-repeat;">
+                  <div class="row" style="margin-top:10px; margin-left:-3px;">
+                  <ul class="col-sm-6 col-md-4 list-unstyled two">
+                    
+                    <li><a href="../asp-dot-net-solutions.html"><i class="fa fa-angle-right"></i>Microsoft ASP.NET Solutions</a></li>
+                    <li><a href="../java-j2ee-solutions.html"><i class="fa fa-angle-right"></i>Java/J2EE Solutions</a></li>
+                    <li><a href="../smartphone-solutions.html"><i class="fa fa-angle-right"></i>Mobile/Smartphone Solutions</a></li>
+                    <li><a href="../android-solutions.html"><i class="fa fa-angle-right"></i>Android Solutions</a></li>
+                    <!--<li><a href="#"><i class="fa fa-angle-right"></i>iPhone / iPad Solutions</a></li>-->
+                    
+                    </ul>
+                    <ul class="col-sm-6 col-md-4 list-unstyled two">
+                        
+                        <li><a href="../lamp-solutions.html"><i class="fa fa-angle-right"></i>LAMP (PHP/MySQL) Solutions</a></li>
+                        <li><a href="../open-source-solutions.html"><i class="fa fa-angle-right"></i>Open Source Solutions</a></li>
+                        <li><a href="../drupal-cms-solutions.html"><i class="fa fa-angle-right"></i>Drupal CMS Solutions</a></li>
+                        <li><a href="../magento-ecommerce-solutions.html"><i class="fa fa-angle-right"></i>Magento E-commerce Solutions</a></li>
+                    </ul>
+                    <ul class="col-sm-6 col-md-4 list-unstyled two">
+                        
+                        <li><a href="../wordpress-solutions.html"><i class="fa fa-angle-right"></i>WordPress Solutions</a></li>
+                        <li><a href="../scala-solutions.html"><i class="fa fa-angle-right"></i>Scala Solutions</a></li>
+                        <li><a href="../lucene-apache-solutions.html"><i class="fa fa-angle-right"></i>Lucene/Apache Solr Solutions</a></li>
+                        <li><a href="../sql-mongo-db-solutions.html"><i class="fa fa-angle-right"></i>NoSQL/MongoDB Solutions</a></li>
+                    </ul>
+                    </div></div>
+              </li>
+              
+            </ul>
+            
+        </li>
+        
+        <li class="dropdown yamm-fw"> <a href="#" data-toggle="dropdown" class="dropdown-toggle menu-uppercase">Industries</a>
+            <ul class="dropdown-menu">
+              <li> 
+                <div class="yamm-content" style="background: url(https://dl.dropboxusercontent.com/u/18689296/GAS-new-website/images/tree-icon.png) right bottom no-repeat;">
+                  <div class="row" style="margin-top:10px; margin-left:-3px;">
+                  <ul class="col-sm-6 col-md-4 list-unstyled two">
+                    
+                    <li><a href="../communication-services.html"><i class="fa fa-angle-right"></i>Communication Services</a></li>
+                        <li><a href="../consulting.html"><i class="fa fa-angle-right"></i>Consulting</a></li>
+                        <li><a href="../education.html"><i class="fa fa-angle-right"></i>Education</a></li>
+                        <li><a href="../energy.html"><i class="fa fa-angle-right"></i>Energy</a></li>
+                        <li><a href="../finance.html"><i class="fa fa-angle-right"></i>Finance</a></li>
+                    
+                    </ul>
+                    <ul class="col-sm-6 col-md-4 list-unstyled two">
+                        
+                        
+                        <li><a href="../healthcare.html"><i class="fa fa-angle-right"></i>Healthcare</a></li>
+                        <li><a href="../hospitality.html"><i class="fa fa-angle-right"></i>Hospitality</a></li>
+                         <li><a href="../industrial-manufacturing.html"><i class="fa fa-angle-right"></i>Industrial Manufacturing</a></li>
+                        <li><a href="../insurance.html"><i class="fa fa-angle-right"></i>Insurance</a></li>
+                        <li><a href="../legal.html"><i class="fa fa-angle-right"></i>Legal</a></li>
+                    </ul>
+                    <ul class="col-sm-6 col-md-4 list-unstyled two">
+                        
+                        <li><a href="../market-research-analytics.html"><i class="fa fa-angle-right"></i>Market Research &amp; Analytics</a></li>
+                        <li><a href="../media-entertainment.html"><i class="fa fa-angle-right"></i>Media &amp; Entertainment</a></li>
+                        <li><a href="../ngo.html"><i class="fa fa-angle-right"></i>NGOs</a></li>
+                        <li><a href="../retail-ecommerce.html"><i class="fa fa-angle-right"></i>Retail &amp; E-commerce</a></li>
+                        <li><a href="../technology.html"><i class="fa fa-angle-right"></i>Technology</a></li>
+                        
+                       
+                    </ul>
+                    </div></div>
+              </li>
+              
+            </ul>
+            
+        </li>
+        
+         <li class=""><a href="../case-studies.html" data-toggle="" class="menu-uppercase">Case Studies</a>
+        	<!--<ul class="dropdown-menu multilevel" role="menu">
+                <li><a href="#">White Papers</a></li>
+                <li><a href="../case-studies.html">Case Studies</a></li>
+            </ul>-->
+        </li>
+        
+        
+        
+        <li class="dropdown"> <a href="#" data-toggle="dropdown" class="dropdown-toggle menu-uppercase">Careers </a>
+            <ul class="dropdown-menu multilevel" role="menu">
+                <!--<li> <a href="../why-greenapple.html">Why Green Apple Solutions</a> </li>-->
+                <li> <a href="../life-at-greenapple.html">Life @ Green Apple Solutions</a> </li>
+                <li> <a href="../current-openings.html">Current Openings</a> </li>
+            </ul>
+        </li>
+        
+        
+        
+        <li class=""><a href="../contact-us.html" data-toggle="" class="menu-uppercase">Contact</a>
+        
+        </li>
+                
+        </ul>
+        
+      </div>
+      </div>
+     </div>
+     
+	</nav><!-- end Navigation Menu -->
+    
+    <!--<div class="menu_right"><a href="#" class="buynow">Buy Now</a></div>-->
+    
+	</div>
+    
+</header>

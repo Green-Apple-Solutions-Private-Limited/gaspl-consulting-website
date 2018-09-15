@@ -1,0 +1,68 @@
+form#form26 input.text, input.search, .wufoo textarea.textarea {
+  border: 1px solid #eee;
+  background: none;
+  padding: 5px 2px;
+}
+input#saveForm {
+  background-color: #272727; 
+  border: none;
+  padding: 10px;
+  color: #fff;
+  font-size: 100%;
+  cursor:pointer;
+}
+.wufoo label.desc{
+	font-weight:normal;
+	font-size:13px !important;
+}
+
+.wufoo .info h2 {
+  display: none;
+}
+
+form li.error, #errorMsg b {
+  background-color: transparent !important;
+}
+form li.error .desc {
+  color: #272727 !important;
+}
+
+#errorMsg b{
+	  color: #DF0000 !important;}
+#errorLi {
+ border: 0px; 
+ margin:0px;
+}
+ .error label.desc {
+  font-weight: normal !important;
+}
+form p.error {
+font-weight:normal;
+}
+input.medium, select.medium {
+  width: 98%;
+}
+li.leftHalf .medium, li.rightHalf .medium{
+	width:96% !important;
+}
+.wufoo label.desc{
+	color:#fff;
+}
+.safari .wufoo input.file{
+	color:#fff;
+}
+.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select {
+  background: white;
+  padding:4px;
+}
+input#saveForm {
+	background-color:#82c774;
+	border-radius:4px;
+}
+form li.error .desc {
+  color: #fff !important;
+}
+.confirm h2 {
+  font-family: inherit;
+  color: #fff;
+}

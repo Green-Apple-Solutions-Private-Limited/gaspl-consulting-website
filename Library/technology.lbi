@@ -1,0 +1,16 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div class="sidebar_title" style="margin-top:-5px;"><h4>Technologies</h4></div>
+		<ul class="arrows_list1">		
+            <li><a href="../asp-dot-net-solutions.html"><i class="fa fa-angle-right"></i> Microsoft ASP.NET Solutions</a></li>
+                    <li><a href="../java-j2ee-solutions.html"><i class="fa fa-angle-right"></i> Java/J2EE Solutions</a></li>
+                    <li><a href="../smartphone-solutions.html"><i class="fa fa-angle-right"></i> Mobile/Smartphone Solutions</a></li>
+                    <li><a href="../android-solutions.html"><i class="fa fa-angle-right"></i> Android Solutions</a></li>
+                <li><a href="../lamp-solutions.html"><i class="fa fa-angle-right"></i> LAMP (PHP/MySQL) Solutions</a></li>
+                        <li><a href="../open-source-solutions.html"><i class="fa fa-angle-right"></i> Open Source Solutions</a></li>
+                        <li><a href="../drupal-cms-solutions.html"><i class="fa fa-angle-right"></i> Drupal CMS Solutions</a></li>
+                        <li><a href="../magento-ecommerce-solutions.html"><i class="fa fa-angle-right"></i> Magento E-commerce Solutions</a></li>
+                <li><a href="../wordpress-solutions.html"><i class="fa fa-angle-right"></i> WordPress Solutions</a></li>
+                        <li><a href="../scala-solutions.html"><i class="fa fa-angle-right"></i> Scala Solutions</a></li>
+                        <li><a href="../lucene-apache-solutions.html"><i class="fa fa-angle-right"></i> Lucene/Apache Solr Solutions</a></li>
+                        <li><a href="../sql-mongo-db-solutions.html"><i class="fa fa-angle-right"></i> NoSQL/MongoDB Solutions</a></li>
+		</ul>
