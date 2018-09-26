@@ -128,6 +128,47 @@ del{text-decoration:line-through;}
 
 /*Style.css*/
 
+.opening_post ul {
+    padding-left: 0;
+    border-top: 2px solid #5c5c5d;
+}
+.opening_post li {
+    background: 0;
+    list-style: none;
+    padding: 0;
+    line-height: 1.7;
+    border-bottom: 1px solid rgba(44,46,47,0.16);
+    margin-bottom: 0;
+}
+
+.opening_post li:last-child {
+    border: none;
+}
+
+.opening_post li a {
+    display: inline-block;
+    font-size: 14px;
+    color: #333;
+    padding: 18px 0;
+    width: 100%;
+    text-decoration: none;
+}
+
+.opening_post li:hover a {
+    color: #82c774;
+}
+
+.opening_post h3 a{
+    font-size: 23px !important;
+    color: #333 !important;
+}
+
+
+.opening_post h3{
+margin-bottom: 20px !important;
+}
+
+
 .cbp-l-filters-alignCenter .cbp-filter-item a{color: #949494;}
 .cbp-l-filters-alignCenter .cbp-filter-item a:hover {
     color: #2D2C2C;
